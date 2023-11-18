@@ -12,7 +12,7 @@
 //! assert!(ans == "00" || ans == "11");
 //! ```
 //! ### Thoughts:
-//! - Independently Solved; 2023-11-16;
+//! - Independently Solved; 2023-11-15;
 //! 
 //! I initially solved this problem independently with sorting. Later, after I
 //! checked the solution, I realized that this problem can be easily
