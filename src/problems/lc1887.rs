@@ -22,6 +22,7 @@
 //! ```
 //! 
 //! ### Thoughts:
+//! - `Independently Solved`; `2023-11-19`
 //! 
 //! I guess there is some recursive thinking in solving this. We need to first make a subset of numbers into the second largest number. Then, we can change all of the second-largest numbers into the smallest number. We can use sorting to make finding the subsets of numbers easier.
 

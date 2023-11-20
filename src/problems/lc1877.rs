@@ -20,7 +20,7 @@
 //! ```
 //! 
 //! ### Thoughts:
-//! - Hinted; 2023-11-16;
+//! - `Hinted`; `2023-11-16`;
 //! 
 //! My intuition is to sort the array, pair numbers up from the beginning and the end, respectively, and track the maximum sum.
 //! 

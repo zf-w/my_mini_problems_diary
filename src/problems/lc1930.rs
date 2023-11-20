@@ -20,6 +20,12 @@
 //! assert_eq!(3, lc1930::count_palindromic_subsequence(s));
 //! 
 //! ``` 
+//! 
+//! ### Thoughts:
+//! - `Independently Solved`; `2023-11-13`;
+//! 
+//! Since this problem only concerns palindromes of length `3`, when adding a new character to the end of the previous string, we only need to know whether there are substrings of length `2` starting with that character. My solution was fast!
+//! 
 
 pub fn count_palindromic_subsequence(s: String) -> i32 {
     let mut c1: [bool; 26] = [false; 26];

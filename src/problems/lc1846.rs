@@ -17,7 +17,7 @@
 //! ```
 //! 
 //! ### Thoughts:
-//! - Independently Solved; 2023-11-14;
+//! - `Independently Solved`; `2023-11-14`;
 //! 
 //! Sort the array and see how high the last "element" can reach. I guess the important thing is how many equal elements are there in the array. After sorting the array, the equal elements will block the increment of "steps."
 

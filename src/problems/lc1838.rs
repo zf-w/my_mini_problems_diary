@@ -18,7 +18,7 @@
 //! ```
 //! 
 //! ### Thoughts:
-//! - Independently Solved; 2023-11-17;
+//! - `Independently Solved`; `2023-11-17`;
 //! 
 //! I think this question is pretty similar to a question in STAT107 at UIUC that 
 //! asked you how to maximize the median of a given array of numbers. B
