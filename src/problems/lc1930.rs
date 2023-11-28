@@ -16,9 +16,7 @@
 //! use learn_cs::problems::lc1930;
 //! let s: String = String::from("aabca");
 //! 
-//! // "aba", "aaa", "aca"
 //! assert_eq!(3, lc1930::count_palindromic_subsequence(s));
-//! 
 //! ``` 
 //! 
 //! ### Thoughts:
