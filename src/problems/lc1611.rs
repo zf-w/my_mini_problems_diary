@@ -1,5 +1,5 @@
 //! ## Leetcode 1611. Minimum One Bit Operations to Make Integers Zero
-//! - `Hard`; `Learned`; `2023-11-30`;
+//! - `Hard`; `Learned`; `2023-11-29`;
 //! 
 //! I didn't fully understand the mechanism of the recursion formula. I improved the leftmost bit-checking part a bit. I guess, to solve problems like this, trying to find the patterns of numbers is indeed important.
 
