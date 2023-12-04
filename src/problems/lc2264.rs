@@ -1,6 +1,6 @@
 //! ## Leetcode 2264. Largest 3-Same-Digit Number in String
 //! https://leetcode.com/problems/largest-3-same-digit-number-in-string
-//! - `Easy`; `Independently Solved`; `2023-12-03`
+//! - `Easy`; `Independently Solved`; `2023-12-03`;
 //! 
 //! I guess this problem would be another practice of playing around with iterators. Using the iterator's next function to forward it is useful when iterating with the previous element.
 

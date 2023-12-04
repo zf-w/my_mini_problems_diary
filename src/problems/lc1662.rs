@@ -1,6 +1,6 @@
 //! ## Leetcode 1662. Check If Two String Arrays are Equivalent
 //! https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent
-//! - `Easy`; `Independently Solved`; `2023-11-30`
+//! - `Easy`; `Independently Solved`; `2023-11-30`;
 //! 
 //! That's actually an very interesting question due to the complex nature of strings. I guess strings are not exactly character arrays. Instead, they are more similar to **Linked Lists** since the length of a character is not fixed. 
 //! 

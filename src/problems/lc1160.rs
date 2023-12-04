@@ -1,6 +1,6 @@
 //! ## Leetcode 1160. Find Words That Can Be Formed By Characters
 //! https://leetcode.com/problems/find-words-that-can-be-formed-by-characters
-//! - `Easy`; `Independently Solved`; `2023-12-01`
+//! - `Easy`; `Independently Solved`; `2023-12-01`;
 //! 
 //! I think sometimes I forget to use an array and use a vector, even for fixed-size linear structures. I guess I should not use dynamic heap memories when I know what the size of an array would be.
 //! 

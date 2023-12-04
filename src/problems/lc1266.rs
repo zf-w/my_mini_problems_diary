@@ -1,6 +1,6 @@
 //! ## Leetcode 1266. Minimum Time Visiting All Points
 //! https://leetcode.com/problems/minimum-time-visiting-all-points
-//! - `Easy`; `Independently Solved`; `2023-12-03`
+//! - `Easy`; `Independently Solved`; `2023-12-03`;
 //! 
 //!  I feel like the key point of this question would be to make as many diagonal moves as possible. I'm also wondering what the best practice is for iterating through a list. Love the idea of abstracting with no performance cost. I guess using the iterator approach would be more robust if switching to a structure with a linked-list-style internal design, say string.
 
