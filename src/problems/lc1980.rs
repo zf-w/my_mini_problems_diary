@@ -1,26 +1,9 @@
 //! ## Leetcode 1980. Find Unique Binary String
 //! https://leetcode.com/problems/find-unique-binary-string
+//! - `Medium`; `Independently Solved`; `2023-11-15`;
 //! 
-//! Given an array of strings `nums` containing `n` **unique** binary strings 
-//! each of length `n`, return a binary string of length n that does not appear
-//! in `nums`. *If there are multiple answers, you may return any of them*
-//! 
-//! ### Example:
-//! ```
-//! let nums = vec![String::from("01"), String::from("10")];
-//! let ans = learn_cs::problems::lc1980::find_different_binary_string(nums);
-//! assert!(ans == "00" || ans == "11");
-//! ```
-//! ### Thoughts:
-//! - `Independently Solved`; `2023-11-15`;
-//! 
-//! I initially solved this problem independently with sorting. Later, after I
-//! checked the solution, I realized that this problem can be easily
-//! solved by Cantor's diagonal argument.
-//! I guess that's the author's intention setting number of binary numbers 
-//! equal to their lengths.
-//! It's indeed an interesting problem.
-//! 
+//! I initially solved this problem independently with sorting. Later, after I checked the solution, I realized that this problem can be easily solved by Cantor's diagonal argument.
+//! I guess that's the author's intention setting number of binary numbers equal to their lengths. It's indeed an interesting problem.
 
 
 /// ## Intuition:

@@ -1,4 +1,5 @@
 //! Leetcode 191. Number of 1 Bits
+//! https://leetcode.com/problems/number-of-1-bits
 //! - `Easy`; `Independently Solved`; `2023-11-28`;
 //! 
 //! The 1 Bit counting problem. I used to iterate through all the bits by bit-operations or divide. I have learned the more efficient method via a Connect 4 Solving tutorial. This method guarantees to find the rightmost bit of 1 quickly.

@@ -1,24 +1,6 @@
 //! ## Leetcode 935. Knight Dialer
-//! - `Medium`
-//! 
-//! The chess knight has a **unique movement**, it may move two squares vertically and one square horizontally, or two squares horizontally and one square vertically (with both forming shape of an L). The possible movements of chess knight are shown in this diagram:
-//! 
-//! A chess knight can move as indicated in the chess diagram below:
-//! 
-//! ![Chess knight](https://assets.leetcode.com/uploads/2020/08/18/chess.jpg)
-//! 
-//! We have a chess knight and a phone pad as shown below, the knight **can only stand on a numeric cell** (i.e. blue cell).
-//! 
-//! ![Phone pad](https://assets.leetcode.com/uploads/2020/08/18/phone.jpg)
-//! 
-//! Given an integer `n`, return how many distinct phone numbers of length `n` we can dial.
-//! 
-//! You are allowed to place the knight **on any numeric cell** initially and then you should perform `n-1` jumps to dial a number of lenght `n`. All jumps should be **valid** knight jumps.
-//! 
-//! As the answer may be very large, **reutrn the answer modulo `10^9 + 7`.
-//! 
-//! ### Thoughts:
-//! - `Independently Solved`; 2023-11-26;
+//! https://leetcode.com/problems/knight-dialer
+//! - `Medium`; `Independently Solved`; `2023-11-26`;
 //! 
 //! Ah, quick power and matrix multiplication, some dead memories start to attack me. Personally, I tried to use those fixed arrays on Stack in this problem, and it was a very interesting and smooth experience.
 
