@@ -1,28 +1,7 @@
 //! ## Leetcode 1814. Count Nice Pairs in an Array
-//! - `Medium`
-//! 
-//! You are given an array `nums` that consists of non-negative integers. Let us define `rev(x)` as the reverse of the non-negative integer `x`. For example, `rev(120) = 21`. A pair of indices `(i, j)` is **nice** if it satisfies all of the following conditions:
-//! 
-//! - `0 <= i < j < nums.length`
-//! - `nums[i] + rev(nums[j]) == nums[j] + rev(nums[i])`
-//! 
-//! Return *the number of nice pairs of indices*. Since that number can be too large, return it modulo `1e9 + 7`.
-//! 
-//! ### Example:
-//! ```
-//! use learn_cs::problems::lc1814;
-//! 
-//! let nums = vec![42, 11, 1, 97];
-//! assert_eq!(2, lc1814::count_nice_pairs(nums));
-//! ```
-//! 
-//! ### Thoughts:
-//! - `Independently Solved`; `2023-11-20`
+//! - `Medium`; `Independently Solved`; `2023-11-20`;
 //! 
 //! I feel that the following transformation of the definition equation would be key to solving this problem: `nums[i] - rev(nums[i]) == nums[j] - rev(nums[j])`. And then, you can easily calculate the number of pairs by grouping those numbers with equal `x - rev(x)`. How to safely calculate the inverse modulo would be the key to solving this problem.
-//! 
-
-
 
 use std::collections::hash_map::HashMap;
 

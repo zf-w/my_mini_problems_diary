@@ -1,12 +1,6 @@
 //! ## Leetcode 1727. Largest Submatrix With Rearrangements
-//! - `Medium`
-//! 
-//! You are given a binary matrix `matrix` of size `m * n`, and you are allowed to rearrange the **columns** of the `matrix` in any order.
-//! 
-//! Return *the area of the largest submatrix within `matrix` where **every** element of the submatrix is `1` after reordering the columns optimally.
-//! 
-//! ### Thoughts:
-//! - `Learned`; `2023-11-25`;
+//! https://leetcode.com/problems/largest-submatrix-with-rearrangements
+//! - `Medium`;`Learned`; `2023-11-25`;
 //! 
 //! This is an interesting question. At first, I got confused about why sorting the rows and comparing the value of the column times the length of the right of it could work.
 

@@ -1,33 +1,6 @@
 //! ## Leetcode 1630. Arithmetic Subarrays
-//! - `Medium`
-//! 
-//! A sequence of numbers is called **arithmetic** if consists of at least two elements, and the difference between every two consecutive elements is the same. More formally, a sequence `s` is arithmetic if and only if `s[i+1] - s[i] == s[1] - s[0]` for all valid `i`.
-//! 
-//! For example, there are **arithmetic** sequences:
-//! 
-//! > 1, 3, 5, 7, 9
-//! 
-//! > 7, 7, 7, 7
-//! 
-//! > 3, -1, -5, -9
-//! 
-//! You are given an array of `n` integers, `nums`, and two arrays of `m` integers each, `l` and `r`, representing the `m` range queries, where the `i^th` query is the range `[l[i], r[i]]`. All the arrays are **0-indexed**.
-//! 
-//! Return *a list of `boolean` elements `answer`, where `answer[i]` is `true` if the subarray `nums[l[i]..r[i]]` can be **rearranged** to form an **arithmetic** sequence, and `false` otherwise*.
-//! 
-//! ### Example:
-//! ```
-//! use learn_cs::problems::lc1630;
-//! let nums = vec![4, 6, 5, 9, 3, 7];
-//! let l = vec![0, 0, 2];
-//! let r = vec![2, 3, 5];
-//! let expected = vec![true, false, true];
-//! 
-//! assert_eq!(expected, lc1630::check_arithmetic_subarrays(nums, l, r));
-//! ```
-//! 
-//! ### Thoughts:
-//! - `Independently Solved`; `2023-11-22`;
+//! https://leetcode.com/problems/arithmetic-subarrays
+//! - `Medium`; `Independently Solved`; `2023-11-22`;
 //! 
 //! My intuition on how to check whether a subarray is arithmetic is to calculate the expected differences of elements and see if all the elements can be found in the subarray in `O(len of subarray)`. Another way might be copying and sorting the subarray.
 //! 
