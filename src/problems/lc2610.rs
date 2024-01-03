@@ -1,3 +1,9 @@
+//! ## Leetcode 2610. Convert an Array Into a 2D Array With Conditions
+//! https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions
+//! - `Medium`; `Independently Solved`; `2024-01-01`;
+//! 
+//! Knowing the `size` of a vector is kind of important.
+
 pub fn find_matrix(nums: Vec<i32>) -> Vec<Vec<i32>> {
   let len = nums.len();
   let mut count: Vec<u16> = vec![0; len];
