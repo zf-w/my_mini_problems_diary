@@ -13,5 +13,5 @@ pub fn min_steps(s: String, t: String) -> i32 {
     for c in t.chars() {
         count[c as usize - base] -= 1;
     }
-    count.iter().filter(|x| x.is_positive()).sum() as i32
+    count.iter().filter(|x| x.is_positive()).sum::<i32>()
 }

@@ -14,25 +14,25 @@ pub fn find_winners(matches: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
         let a = m.get(0).expect("Have two");
         let b = m.get(1).expect("Have two");
         if !lose.contains(a) && !lose1.contains(a) && !lose0.contains(a) {
-            lose0.insert(a);
+            lose0.insert(*a);
         }
         if lose1.contains(b) {
             lose1.remove(b);
-            lose.insert(b);
+            lose.insert(*b);
         } else if lose0.contains(b) {
             lose0.remove(b);
-            lose1.insert(b);
+            lose1.insert(*b);
         } else if !lose.contains(b) {
-            lose1.insert(b);
+            lose1.insert(*b);
         }
     }
     let mut l0: Vec<i32> = Vec::with_capacity(lose0.len());
     let mut l1: Vec<i32> = Vec::with_capacity(lose1.len());
     for v in lose0.iter() {
-        l0.push(v);
+        l0.push(*v);
     }
     for v in lose1.iter() {
-        l1.push(v);
+        l1.push(*v);
     }
     l0.sort();
     l1.sort();
