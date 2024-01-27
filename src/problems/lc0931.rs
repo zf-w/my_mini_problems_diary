@@ -1,9 +1,3 @@
-//! Leetcode 931. Minimum Falling Path Sum
-//! https://leetcode.com/problems/minimum-falling-path-sum
-//! - `Medium`; `Independently Solved`; `2024-01-18`;
-//!
-//! Dynamic Programming with space optimization.
-
 pub fn min_falling_path_sum(matrix: Vec<Vec<i32>>) -> i32 {
     let height = matrix.len();
     let width = matrix[0].len();
@@ -23,5 +17,6 @@ pub fn min_falling_path_sum(matrix: Vec<Vec<i32>>) -> i32 {
         }
         std::mem::swap(&mut prev, &mut curr);
     }
-    prev.iter().min()
+
+    *prev.iter().min().unwrap()
 }

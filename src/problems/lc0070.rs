@@ -1,16 +1,10 @@
-//! ## Leetcode 70. Climbing Stairs
-//! https://leetcode.com/problems/climbing-stairs
-//! - `Easy`; `Independently Solved`; `2024-01-17`;
-//!
-//! I guess there are many ways to solve this problem: raw recursion, top-down memorization, bottom-up dynamic programming, and dynamic programming with different optimizations like quick power.
-
 pub fn climb_stairs(n: i32) -> i32 {
     if n == 1 {
         return 1;
     } else if n == 2 {
         return 2;
     }
-    let mut x: [i32; 2] = [1, 2];
+    let x: [i32; 2] = [1, 2];
     let a: [i32; 4] = [0, 1, 1, 1];
 
     /// Matrix multiplication
@@ -24,7 +18,7 @@ pub fn climb_stairs(n: i32) -> i32 {
     }
 
     /// Matrix multiplication
-    fn mul(a: [i32; 4], x: [i32; 2]) -> [i32; 2] {
+    fn mulv(a: &[i32; 4], x: &[i32; 2]) -> [i32; 2] {
         [a[0] * x[0] + a[1] * x[1], a[2] * x[0] + a[3] * x[1]]
     }
 
@@ -36,9 +30,10 @@ pub fn climb_stairs(n: i32) -> i32 {
                 ans = mul(&multiplier, &ans);
             }
             multiplier = mul(&multiplier, &multiplier);
+            p /= 2;
         }
         ans
     }
     let m = quick_pow(&a, n as u8 - 2);
-    mul(&m, x)
+    mulv(&m, &x)[1]
 }
