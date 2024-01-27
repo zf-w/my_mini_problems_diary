@@ -7,7 +7,7 @@
 pub fn min_steps(s: String, t: String) -> i32 {
     let mut count: [i32; 26] = [0; 26];
     let base = 'a' as usize;
-    for c in t.chars() {
+    for c in s.chars() {
         count[c as usize - base] += 1;
     }
     for c in t.chars() {

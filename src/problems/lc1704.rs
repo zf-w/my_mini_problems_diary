@@ -7,7 +7,7 @@
 pub fn halves_are_alike(s: String) -> bool {
     fn index(c: char) -> bool {
         let m: [char; 10] = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
-        for (i, curr) in m.iter().enumerate() {
+        for curr in m.iter() {
             if *curr == c {
                 return true;
             }
