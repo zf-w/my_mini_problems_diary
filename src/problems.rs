@@ -62,8 +62,10 @@ pub mod lc1903; // 2023-12-06
 pub mod lc1913; // 2023-12-17
 pub mod lc1930;
 pub mod lc1980; // 2023-11-15
+pub mod lc2108; // 2023-02-13
 pub mod lc2125; // 2024-01-02
 pub mod lc2147; // 2023-11-27
+pub mod lc2149; // 2023-02-13
 pub mod lc2225; // 2024-01-14
 pub mod lc2264; // 2023-12-03
 pub mod lc2353; // 2023-12-16
