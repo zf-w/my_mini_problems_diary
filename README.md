@@ -14,7 +14,7 @@ lc0085, lc0402
 
 ### Binary Tree Recursion
 
-lc0404
+lc0404, lc0988
 
 ## Playground
 
