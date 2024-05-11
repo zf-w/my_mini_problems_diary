@@ -40,6 +40,12 @@ Usually, when we are applying Dynamic Programming techniques, we can reduce an m
 
 lc0514, lc2189
 
+### Funny Bit manipulations
+
+Sometimes, with special constraints on the input, we can use the extra space within the input data. For example, if we know the input will only use the first ten bits of an integer, we can use the remaining unused space.
+
+lc0506
+
 ## To Review
 
 lc310, lc834
