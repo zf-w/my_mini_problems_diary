@@ -137,6 +137,7 @@ pub mod lc2966; // 2024-02-01
 pub mod lc2971; // 2024-02-15
 pub mod lc2997; // 2024-04-28
 pub mod lc3005; // 2024-03-08
+pub mod lc3068; // 2024-05-19 Learning
 pub mod lc3075; // 2024-05-08
 pub mod lc3079; // 2024-03-16
 pub mod lc3080; // 2024-03-16
