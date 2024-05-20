@@ -93,6 +93,7 @@ pub mod lc1758; // 2023-12-23
 pub mod lc1814; // 2023-11-20
 pub mod lc1838; // 2023-11-17
 pub mod lc1846; // 2023-11-14
+pub mod lc1863; // 2024-05-20 Subset & DP
 pub mod lc1877; // 2023-11-16
 pub mod lc1887; // 2023-11-18
 pub mod lc1897; // 2023-12-29
