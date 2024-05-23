@@ -24,6 +24,10 @@ lc0404, lc0979, lc0988
 
 lc0085, lc0402
 
+### Subsets
+
+lc0078, lc2597
+
 ## Playground
 
 ### Rust: Using Option\<usize\> to replace i32 representation of index
