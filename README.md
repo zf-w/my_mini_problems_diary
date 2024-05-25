@@ -24,6 +24,10 @@ lc0404, lc0979, lc0988
 
 lc0085, lc0402
 
+### Recursion and Backtracking
+
+lc0140, lc1255
+
 ### Subsets
 
 lc0078, lc2597

@@ -4,6 +4,7 @@ pub mod lc0078; // 2024-05-20 Subset & DP
 pub mod lc0085; // 2024-04-13
 pub mod lc0091; // 2023-12-24
 pub mod lc0094; // 2023-12-08
+pub mod lc0140; // 2024-05-25 Recursion & Backtracking
 pub mod lc0145; // 2023-12-07
 pub mod lc0165; // 2024-05-03
 pub mod lc0191; // 2023-11-28
@@ -56,6 +57,7 @@ pub mod lc1207; // 2024-01-16
 pub mod lc1219; // 2024-05-14
 pub mod lc1235; // 2024-01-05
 pub mod lc1249; // 2024-04-05
+pub mod lc1255; // 2024-05-24 Recursion & Backtracking
 pub mod lc1266; // 2023-12-02
 pub mod lc1287; // 2023-12-10
 pub mod lc1291; // 2024-02-02
