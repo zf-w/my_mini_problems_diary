@@ -20,6 +20,10 @@ A type of Binary Tree or Tree structure problem that can be solved by recursivel
 
 lc0404, lc0979, lc0988
 
+### Dynamic Programming
+
+lc0552
+
 ### Monotonic Stack
 
 lc0085, lc0402
