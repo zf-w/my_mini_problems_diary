@@ -38,6 +38,24 @@ lc0078, lc2597
 
 ## Playground
 
+### Funny Breath-First-Search
+
+lc2812
+
+### Funny Bit manipulations
+
+Sometimes, with special constraints on the input, we can use the extra space within the input data. For example, if we know the input will only use the first ten bits of an integer, we can use the remaining unused space.
+
+lc0506
+
+### Interesting
+
+lc0260
+
+### Rust: Iterators
+
+lc3110
+
 ### Rust: Using Option\<usize\> to replace i32 representation of index
 
 lc0085
@@ -52,15 +70,13 @@ Usually, when we are applying Dynamic Programming techniques, we can reduce an m
 
 lc0514, lc2189
 
-### Funny Breath-First-Search
+## Intuition Tree
 
-lc2812
+### When We See Substring
 
-### Funny Bit manipulations
+#### With Maximum Length of Something
 
-Sometimes, with special constraints on the input, we can use the extra space within the input data. For example, if we know the input will only use the first ten bits of an integer, we can use the remaining unused space.
-
-lc0506
+It might be about `Sliding Window`.
 
 ## To Review
 

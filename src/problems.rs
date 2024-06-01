@@ -11,6 +11,7 @@ pub mod lc0191; // 2023-11-28
 pub mod lc0201; // 2024-02-20
 pub mod lc0238; // 2024-03-15
 pub mod lc0242; // 2023-12-15
+pub mod lc0260; // 2024-05-30
 pub mod lc0300; // 2024-01-04
 pub mod lc0310; // 2024-04-22
 pub mod lc0368; // 2024-02-09
@@ -55,6 +56,7 @@ pub mod lc1074; // 2024-01-28
 pub mod lc1155; // 2023-12-25
 pub mod lc1160; // 2023-12-01
 pub mod lc1207; // 2024-01-16
+pub mod lc1208; // 2024-05-28 Sliding Window
 pub mod lc1219; // 2024-05-14
 pub mod lc1235; // 2024-01-05
 pub mod lc1249; // 2024-04-05
@@ -65,9 +67,11 @@ pub mod lc1291; // 2024-02-02
 pub mod lc1325; // 2024-05-17
 pub mod lc1335; // 2023-12-28
 pub mod lc1347; // 2024-01-12
+pub mod lc1404; // 2024-05-28
 pub mod lc1422; // 2023-12-21
 pub mod lc1424; // 2023-11-21
 pub mod lc1436; // 2023-12-14
+pub mod lc1442; // 2024-05-30
 pub mod lc1463; // 2024-02-11
 pub mod lc1464; // 2023-12-11
 pub mod lc1481; // 2024-02-15
@@ -157,3 +161,4 @@ pub mod lc3099; // 2024-03-30
 pub mod lc3100; // 2024-03-30
 pub mod lc3101; // 2024-03-30
 pub mod lc3102; // 2024-03-30
+pub mod lc3110; // 2024-06-01
