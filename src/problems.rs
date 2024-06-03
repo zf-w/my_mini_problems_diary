@@ -131,6 +131,7 @@ pub mod lc2441; // 2024-05-02
 pub mod lc2444; // 2024-03-31
 pub mod lc2482; // 2023-12-13
 pub mod lc2485; // 2024-03-12
+pub mod lc2486; // 2024-06-02
 pub mod lc2487; // 2024-05-05
 pub mod lc2540; // 2024-03-09
 pub mod lc2597; // 2024-05-23 Subset
