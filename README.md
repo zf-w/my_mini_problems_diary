@@ -28,6 +28,10 @@ lc0552
 
 lc0085, lc0402
 
+### Prefix Tree
+
+lc0648
+
 ### Recursion and Backtracking
 
 lc0140, lc1255
