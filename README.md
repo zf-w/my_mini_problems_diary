@@ -14,6 +14,10 @@ From April of 2024, I start to slowly archive my reflections and thoughts on the
 
 lc0752
 
+### Binary Search
+
+lc1482, lc1552
+
 ### Binary Tree Recursion
 
 A type of Binary Tree or Tree structure problem that can be solved by recursively grouping sub-problem results. Normally, we need to carefully think about the information that needs to be collected from sub-problems.
@@ -76,12 +80,15 @@ lc0514, lc2189
 
 ## Intuition Tree
 
-### When We See Substring
-
-#### With Maximum Length of Something
-
-It might be about `Sliding Window`.
+0. What's the return type...: [1]
+1. When the returning value is number...: [2,4]
+2. and the question is asking about the minimum or maximum value of something...: [3]
+3. and if the in-question problem solution can be represented by a number, and we can fairly easily check if a number works:
+   This question might be about Binary Search on that number.
+4. the question is asking about `Substring`...:[5]
+5. with Maximum Length of Something:
+   This question might be about `Sliding Window`.
 
 ## To Review
 
-lc310, lc834, lc3068
+lc310,lc330, lc834, lc3068
