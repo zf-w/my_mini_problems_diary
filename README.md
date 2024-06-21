@@ -40,6 +40,10 @@ lc0648
 
 lc0140, lc1255
 
+### Sliding Window
+
+lc1052
+
 ### Subsets
 
 lc0078, lc2597
