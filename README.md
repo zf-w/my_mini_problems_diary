@@ -42,7 +42,7 @@ lc0140, lc1255
 
 ### Sliding Window
 
-lc1052
+lc1052, lc1248
 
 ### Subsets
 

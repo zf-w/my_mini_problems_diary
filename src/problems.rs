@@ -70,6 +70,7 @@ pub mod lc1207; // 2024-01-16
 pub mod lc1208; // 2024-05-28 Sliding Window
 pub mod lc1219; // 2024-05-14
 pub mod lc1235; // 2024-01-05
+pub mod lc1248; // 2024-06-21 Sliding Window
 pub mod lc1249; // 2024-04-05
 pub mod lc1255; // 2024-05-24 Recursion & Backtracking
 pub mod lc1266; // 2023-12-02
