@@ -42,11 +42,15 @@ lc0140, lc1255
 
 ### Sliding Window
 
-lc1052, lc1248
+lc1052, lc1248, lc1438
 
 ### Subsets
 
 lc0078, lc2597
+
+### Use Tree Map to Calculate Maximum and Minimum Value
+
+lc1438
 
 ## Playground
 
