@@ -59,6 +59,7 @@ pub mod lc0988; // 2024-04-16
 pub mod lc0992; // 2024-03-30
 pub mod lc1002; // 2024-06-05
 pub mod lc1026; // 2024-01-10
+pub mod lc1038; // 2024-06-24
 pub mod lc1043; // 2024-02-03
 pub mod lc1051; // 2024-06-10
 pub mod lc1052; // 2024-06-21 Sliding Window
