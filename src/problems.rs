@@ -137,6 +137,7 @@ pub mod lc2125; // 2024-01-02
 pub mod lc2147; // 2023-11-27
 pub mod lc2149; // 2023-02-13
 pub mod lc2189; // 2024-04-25
+pub mod lc2192; // 2024-06-28 BFS, Topology Sort?
 pub mod lc2225; // 2024-01-14
 pub mod lc2264; // 2023-12-03
 pub mod lc2285; // 2024-06-27
