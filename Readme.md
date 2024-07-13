@@ -44,6 +44,10 @@ lc0140, lc1255
 
 lc1052, lc1248, lc1438
 
+### Stack
+
+lc2751
+
 ### Subsets
 
 lc0078, lc2597
