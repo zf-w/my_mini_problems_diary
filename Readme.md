@@ -22,7 +22,7 @@ lc1482, lc1552
 
 A type of Binary Tree or Tree structure problem that can be solved by recursively grouping sub-problem results. Normally, we need to carefully think about the information that needs to be collected from sub-problems.
 
-lc0404, lc0979, lc0988
+lc0404, lc0979, lc0988, lc1530
 
 ### Dynamic Programming
 

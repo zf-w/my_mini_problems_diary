@@ -83,6 +83,7 @@ pub mod lc1291; // 2024-02-02
 pub mod lc1325; // 2024-05-17
 pub mod lc1335; // 2023-12-28
 pub mod lc1347; // 2024-01-12
+pub mod lc1380; // 2024-07-19
 pub mod lc1382; // 2024-06-25
 pub mod lc1404; // 2024-05-28
 pub mod lc1422; // 2023-12-21
@@ -96,11 +97,13 @@ pub mod lc1481; // 2024-02-15
 pub mod lc1482; // 2024-06-19
 pub mod lc1496; // 2023-12-22
 pub mod lc1509; // 2024-07-03
+pub mod lc1530; // 2024-07-18
 pub mod lc1531; // 2023-12-27
 pub mod lc1552; // 2024-06-19
 pub mod lc1561; // 2023-11-23
 pub mod lc1578; // 2023-12-26
 pub mod lc1582; // 2023-12-12
+pub mod lc1605; // 2024-07-19
 pub mod lc1609; // 2024-02-29
 pub mod lc1611; // 2023-11-29
 pub mod lc1614; // 2024-04-03
