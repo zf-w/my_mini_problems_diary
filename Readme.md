@@ -52,6 +52,10 @@ lc2751
 
 lc0078, lc2597
 
+### Topology BFS
+
+lc2392
+
 ### Use Tree Map to Calculate Maximum and Minimum Value
 
 lc1438
@@ -100,6 +104,10 @@ lc0514, lc2189
 4. the question is asking about `Substring`...:[5]
 5. with Maximum Length of Something:
    This question might be about `Sliding Window`.
+
+## Interesting
+
+lc2418
 
 ## To Review
 
