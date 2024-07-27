@@ -81,6 +81,7 @@ pub mod lc1266; // 2023-12-02
 pub mod lc1287; // 2023-12-10
 pub mod lc1291; // 2024-02-02
 pub mod lc1325; // 2024-05-17
+pub mod lc1334; // 2024-07-26
 pub mod lc1335; // 2023-12-28
 pub mod lc1347; // 2024-01-12
 pub mod lc1380; // 2024-07-19
@@ -109,6 +110,7 @@ pub mod lc1611; // 2023-11-29
 pub mod lc1614; // 2024-04-03
 pub mod lc1624; // 2023-12-30
 pub mod lc1630; // 2023-11-22
+pub mod lc1636; // 2024-07-23
 pub mod lc1637; // 2023-12-20
 pub mod lc1642; // 2024-02-17
 pub mod lc1657; // 2024-01-13
@@ -182,6 +184,7 @@ pub mod lc2958; // 2024-03-27
 pub mod lc2962; // 2024-03-28
 pub mod lc2966; // 2024-02-01
 pub mod lc2971; // 2024-02-15
+pub mod lc2976; // 2024-07-27
 pub mod lc2997; // 2024-04-28
 pub mod lc3005; // 2024-03-08
 pub mod lc3068; // 2024-05-19 Learning
