@@ -145,12 +145,14 @@ pub mod lc1980; // 2023-11-15
 pub mod lc1992; // 2024-04-20
 pub mod lc2000; // 2024-04-30
 pub mod lc2045; // 2024-07-28
+pub mod lc2053; // 2024-08-04
 pub mod lc2058; // 2024-07-05
 pub mod lc2073; // 2024-04-08
 pub mod lc2092; // 2024-02-25
 pub mod lc2096; // 2024-07-17
 pub mod lc2108; // 2023-02-13
 pub mod lc2125; // 2024-01-02
+pub mod lc2134; // 2024-08-01
 pub mod lc2147; // 2023-11-27
 pub mod lc2149; // 2023-02-13
 pub mod lc2181; // 2024-07-04
