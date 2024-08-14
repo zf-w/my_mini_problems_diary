@@ -115,4 +115,8 @@ lc2418
 
 ## To Review
 
-lc310,lc330, lc834, lc1823, lc3068
+lc0310,lc0330, lc0834, lc0959, lc1823, lc3068
+
+## Busy and Copied
+
+lc0959, lc1568
