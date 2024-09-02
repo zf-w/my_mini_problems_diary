@@ -140,8 +140,10 @@ pub mod lc1846; // 2023-11-14
 pub mod lc1863; // 2024-05-20 Subset & DP
 pub mod lc1877; // 2023-11-16
 pub mod lc1887; // 2023-11-18
+pub mod lc1894; // 2024-09-02
 pub mod lc1897; // 2023-12-29
 pub mod lc1903; // 2023-12-06
+pub mod lc1905; // 2024-08-28
 pub mod lc1913; // 2023-12-17
 pub mod lc1915; // 2024-04-30
 pub mod lc1930; // 2023-11-13
@@ -183,6 +185,7 @@ pub mod lc2487; // 2024-05-05
 pub mod lc2540; // 2024-03-09
 pub mod lc2597; // 2024-05-23 Subset
 pub mod lc2610; // 2024-01-01
+pub mod lc2699; // 2024-08-30
 pub mod lc2706; // 2023-12-19
 pub mod lc2709; // 2024-02-25
 pub mod lc2751; // 2024-07-13
