@@ -30,6 +30,7 @@ pub mod lc0506; // 2024-05-07
 pub mod lc0513; // 2024-02-27
 pub mod lc0514; // 2024-04-27
 pub mod lc0525; // 2024-02-15
+pub mod lc0539; // 2024-09-16
 pub mod lc0543; // 2024-02-26
 pub mod lc0552; // 2024-05-25
 pub mod lc0576; // 2024-01-26
@@ -86,10 +87,12 @@ pub mod lc1255; // 2024-05-24 Recursion & Backtracking
 pub mod lc1266; // 2023-12-02
 pub mod lc1287; // 2023-12-10
 pub mod lc1291; // 2024-02-02
+pub mod lc1310; // 2024-09-13
 pub mod lc1325; // 2024-05-17
 pub mod lc1334; // 2024-07-26
 pub mod lc1335; // 2023-12-28
 pub mod lc1347; // 2024-01-12
+pub mod lc1371; // 2024-09-15
 pub mod lc1380; // 2024-07-19
 pub mod lc1382; // 2024-06-25
 pub mod lc1395; // 2024-07-29
@@ -124,6 +127,7 @@ pub mod lc1653; // 2024-07-30
 pub mod lc1657; // 2024-01-13
 pub mod lc1662; // 2023-11-30
 pub mod lc1669; // 2024-03-19
+pub mod lc1684; // 2024-09-12
 pub mod lc1685; // 2023-11-24
 pub mod lc1688; // 2023-12-04
 pub mod lc1700; // 2024-04-07
@@ -191,6 +195,7 @@ pub mod lc2699; // 2024-08-30
 pub mod lc2706; // 2023-12-19
 pub mod lc2709; // 2024-02-25
 pub mod lc2751; // 2024-07-13
+pub mod lc2807; // 2024-09-10
 pub mod lc2812; // 2024-05-14
 pub mod lc2816; // 2024-05-07
 pub mod lc2864; // 2024-02-29
