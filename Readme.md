@@ -119,10 +119,11 @@ lc0310,lc0330, lc0834, lc0959, lc1823, lc1905, lc3068
 
 ## Busy and Copied
 
-lc0564, lc0959, lc1568
+lc0432, lc0564, lc0959, lc1568
 
 # License Notice: AGPL-v3.0-only
 
+```license_notice
 Zhifeng's Programming Problems Archive
 Copyright (C) 2024 Zhifeng Wang (王之枫)
 
@@ -137,3 +138,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
