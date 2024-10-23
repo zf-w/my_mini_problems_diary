@@ -33,7 +33,7 @@ pub fn kth_largest_level_sum(root: Option<Rc<RefCell<TreeNode>>>, k: i32) -> i64
     let k_usize = k as usize;
 
     let level_sums_len = level_sums_vec.len();
-    if k_usize >= level_sums_len {
+    if k_usize > level_sums_len {
         return -1;
     }
     level_sums_vec.sort_unstable();
