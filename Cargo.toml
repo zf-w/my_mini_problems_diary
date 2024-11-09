@@ -1,9 +1,22 @@
 [package]
 name = "learn_cs"
 version = "0.1.0"
+authors = ["Zhifeng Wang"]
 edition = "2021"
-authors = ["Zhifeng Wang zugz0wang@gmail.com"]
+rust-version = "1.79.0"
+license = "AGPL-3.0-only"
+publish = false
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lints.clippy]
+# Warnings
+#    Be careful with cloning smart pointers. Sometimes `.clone()` doesn't really clone.
+clone_on_ref_ptr = "warn"
+# Allows
+#   I think sometimes `flag == true` is more readable.
+bool_comparison = "allow"
+#   I think sometimes `num.clone()` is clearer.
+clone_on_copy = "allow"
 
 [dependencies]
