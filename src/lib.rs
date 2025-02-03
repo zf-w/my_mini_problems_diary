@@ -1,4 +1,6 @@
 #![allow(dead_code)]
-pub mod helpers;
+#[path = "helpers/helpers.rs"]
+pub mod mod_helpers;
 
-pub mod util;
+#[path = "collections/collections.rs"]
+pub mod mod_collections;

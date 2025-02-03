@@ -10,6 +10,8 @@ From April of 2024, I start to slowly archive my reflections and thoughts on the
 
 # License Notice: AGPL-3.0-only
 
+Trying to use this copy-left license to make sure that I have a chance to learn from my mistakes in case (though very unlikely) someone uses my code.
+
 ```license_notice
 Zhifeng's Programming Problems Archive
 Copyright (C) 2024 Zhifeng Wang (王之枫)

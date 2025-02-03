@@ -18,5 +18,6 @@ clone_on_ref_ptr = "warn"
 bool_comparison = "allow"
 #   I think sometimes `num.clone()` is clearer.
 clone_on_copy = "allow"
+comparison_chain = "allow"
 
 [dependencies]
