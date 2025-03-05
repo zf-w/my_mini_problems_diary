@@ -1,5 +1,3 @@
-pub mod lc0040; // 2024-08-13
-pub mod lc0041; // 2024-03-25
 pub mod lc0070; // 2024-01-17
 pub mod lc0075; // 2024-06-12
 pub mod lc0078; // 2024-05-20 Subset & DP
