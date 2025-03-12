@@ -44,7 +44,7 @@ pub fn number_of_substrings(s: String) -> i32 {
                 key_char_count -= 1;
             }
 
-            ans_num += end_char_idx
+            // ans_num += end_char_idx // Some bug here haha. Weird idea.
         }
     }
     ans_num as i32
