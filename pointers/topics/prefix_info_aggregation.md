@@ -1,4 +1,4 @@
-# Prefix Sum
+# Prefix Info Aggregation
 
 Keeping track of sums or products, or anything with such properties for fast querying of this information of a continuous group of elements.
 
