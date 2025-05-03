@@ -1,6 +1,7 @@
 //! Leetcode 1352. Product of the Last K Numbers
 //! https://leetcode.com/problems/product-of-the-last-k-numbers/
 //! - `Medium`; `y2025m02d13`; `Independently Solved`; `22ms`; `19.1mb`; `2 attempts`;
+//! Topics: prefix_info_aggregation.
 
 struct ProductOfNumbers {
     prefix_product_vec: Vec<(i32, i32)>,
