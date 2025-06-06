@@ -1,6 +1,6 @@
 //! # Leetcode 3403. Find the Lexicographically Largest String From the Box I
 //! https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/
-//! - `Medium`; `y2025m06d04`; `Independently Solved`; `15ms`; `2.3mb`; `5 attempts`;
+//! - `Medium`; `y2025m06d04`; `Hinted`; `15ms`; `2.3mb`; `5 attempts`;
 //! Topics: uncategorized.
 
 pub fn answer_string(word: String, num_friends: i32) -> String {
