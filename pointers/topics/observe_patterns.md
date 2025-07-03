@@ -5,3 +5,4 @@ Observe patterns hidden inside the problem...
 | Mini Problems |
 | ------------- |
 | lc2349        |
+| lc3304        |
