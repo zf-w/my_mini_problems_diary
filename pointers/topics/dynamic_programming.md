@@ -3,6 +3,7 @@
 | Mini Problems |                    Notes                    |
 | ------------- | :-----------------------------------------: |
 | lc1092        | 2D Dynamic Programming with backtracing...? |
+| lc2372        |                                             |
 | lc3201        |                                             |
 | lc3202        |                                             |
 | lc3459        |                                             |
