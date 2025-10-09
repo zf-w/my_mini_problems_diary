@@ -11,3 +11,4 @@
 | lc3201        |                                             |
 | lc3202        |                                             |
 | lc3459        |                                             |
+| lc3494        |          Dynamic Programming-ish.           |
