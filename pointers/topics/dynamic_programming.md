@@ -8,6 +8,7 @@
 | lc1092        | 2D Dynamic Programming with backtracing...? |
 | lc2221        |         Containing some DP spirit?          |
 | lc2372        |                                             |
+| lc3186        |   DP on pre-processed values and counts.    |
 | lc3201        |                                             |
 | lc3202        |                                             |
 | lc3459        |                                             |
