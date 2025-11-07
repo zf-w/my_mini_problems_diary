@@ -1,6 +1,6 @@
-# Union Find
+# Ordered Set
 
 | Mini Problems |
 | ------------- |
-| lc1061        |
+| lc3318        |
 | lc3607        |
