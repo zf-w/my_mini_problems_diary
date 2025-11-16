@@ -2,6 +2,7 @@
 
 | Mini Problems | Notes                              |
 | ------------- | ---------------------------------- |
+| lc1513        |                                    |
 | lc1358        | "Expanding from top of the window" |
 | lc1659        |                                    |
 | lc2302        |                                    |
