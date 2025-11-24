@@ -7,6 +7,7 @@
 | lc0474        | Recursion with memorization. DP should be quicker. |
 | lc1039        |                   Memorization.                    |
 | lc1092        |    2D Dynamic Programming with backtracing...?     |
+| lc1262        |     Dynamic Programming on sums on remainders.     |
 | lc2221        |             Containing some DP spirit?             |
 | lc2372        |                                                    |
 | lc3186        |       DP on pre-processed values and counts.       |
