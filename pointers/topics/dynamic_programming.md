@@ -10,6 +10,7 @@
 | lc1262        |     Dynamic Programming on sums on remainders.     |
 | lc2221        |             Containing some DP spirit?             |
 | lc2372        |                                                    |
+| lc2435        |    Paths in Matrix Whose Sum is Divisible by K.    |
 | lc3186        |       DP on pre-processed values and counts.       |
 | lc3201        |                                                    |
 | lc3202        |                                                    |
